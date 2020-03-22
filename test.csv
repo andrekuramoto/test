@@ -1,0 +1,13 @@
+﻿local,tipo,valor
+RECAP,Ventiladores,2
+RECAP,Fornos,1
+REPLAN,Fornos,1
+REPLAN,Geradores,1
+REPLAN,Sopradores,2
+RPBC,Filtros,3
+RPBC,Geradores,1
+RPBC,Turbinas,2
+RPBC,Fornos,1
+REVAP,Fornos,1
+REVAP,Turbinas,2
+REDUC,Geradores,1
